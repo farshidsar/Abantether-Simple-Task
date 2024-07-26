@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbe4fb6d-980e-4abc-b3b1-0da6b1c1aa7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AbanTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/management/commands/seed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/models/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/repositories/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/repositories/base_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/repositories/crypto_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/repositories/transaction_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/repositories/user_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/repositories/user_wallet_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/services/base_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/services/transaction_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/services/user_wallet_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/exchange/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbanTask/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jkHcwxUsr3QbKozCzGKzz9ln9v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Django Server.AbanTask.executor": "Run",
+    "Django tests.Test: AbanTask.exchange.tests.ExchangeTests.executor": "Run",
+    "Django tests.Test: AbanTask.exchange.tests.ExchangeTests.test_buy_crypto.executor": "Run",
+    "Django tests.Test: AbanTask.exchange.tests.ExchangeTests.test_buy_crypto_success.executor": "Debug",
+    "Docker.docker-compose.yaml: Compose Deployment.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Farshid\PycharmProjects\pythonProject\AbanTask" />
+      <recent name="C:\Users\Farshid\PycharmProjects\pythonProject\AbanTask\AbanTask\exchange\Kafka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.AbanTask">
+    <configuration name="Test: AbanTask.exchange.tests.ExchangeTests" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="AbanTask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="AbanTask.exchange.tests.ExchangeTests" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: AbanTask.exchange.tests.ExchangeTests.test_buy_crypto" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="AbanTask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="AbanTask.exchange.tests.ExchangeTests.test_buy_crypto" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: AbanTask.exchange.tests.ExchangeTests.test_buy_crypto_success" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="AbanTask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="AbanTask.exchange.tests.ExchangeTests.test_buy_crypto_success" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AbanTask" type="Python.DjangoServer" factoryName="Django server">
+      <module name="AbanTask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="AbanTask.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Django tests.Test: AbanTask.exchange.tests.ExchangeTests" />
+        <item itemvalue="Django tests.Test: AbanTask.exchange.tests.ExchangeTests.test_buy_crypto" />
+        <item itemvalue="Django tests.Test: AbanTask.exchange.tests.ExchangeTests.test_buy_crypto_success" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbe4fb6d-980e-4abc-b3b1-0da6b1c1aa7d" name="Changes" comment="" />
+      <created>1721924237971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721924237971</updated>
+      <workItem from="1721924244161" duration="3645000" />
+      <workItem from="1721978388610" duration="4722000" />
+      <workItem from="1721986096814" duration="11596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AbanTask$Test__AbanTask_exchange_tests_ExchangeTests_test_buy_crypto_success.coverage" NAME="Test: AbanTask.exchange.tests.ExchangeTests.test_buy_crypto_success Coverage Results" MODIFIED="1722021063499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/AbanTask$Test__AbanTask_exchange_tests_ExchangeTests_test_buy_crypto.coverage" NAME="Test: AbanTask.exchange.tests.ExchangeTests.test_buy_crypto Coverage Results" MODIFIED="1722021468112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/AbanTask$Test__AbanTask_exchange_tests_ExchangeTests.coverage" NAME="Test: AbanTask.exchange.tests.ExchangeTests Coverage Results" MODIFIED="1722021991302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
